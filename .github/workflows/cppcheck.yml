@@ -1,6 +1,4 @@
- 14 lines (12 sloc) 276 Bytes
-name: cppcheck
-
+name: cppcheck-action
 on: [push]
 
 jobs:
