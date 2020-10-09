@@ -9,3 +9,9 @@ BADGES
 
 
 ![cppcheck-action](https://github.com/99002640/Activity_4/workflows/cppcheck-action/badge.svg)
+
+
+
+
+
+@Copyright 2020
