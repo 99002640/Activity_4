@@ -24,7 +24,7 @@ TEST_INC = -Itest\
 		   -Iinc\
       	   -Iunity
 
-PROJECT_NAME = BUNNIES
+PROJECT_NAME = Make_Output
 
 PROJECT_OUTPUT = $(PROJECT_NAME).out
 
